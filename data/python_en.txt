@@ -1,0 +1,1 @@
+Python is an interpreted programming language whose philosophy emphasizes a syntax that favors a readable code.
